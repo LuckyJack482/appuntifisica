@@ -22,10 +22,19 @@ Poiché siamo *ecologici ed ambientalisti*, non abbiamo ancora preparato la vers
 
 [**Cliccherai in futuro qui per scaricare la versione printable**](https://youtu.be/dQw4w9WgXcQ)
 
-## Work in Progress
+## Collegamenti ai documenti della sezione di Esercizi (WIP)
+#### La versione è unica, ed è ottimizzata sia per la stampa, sia sulla visione sui lettori elettronici.
+
+- [**Clicca qui per scaricare il testo degli esercizi**](https://polimi365-my.sharepoint.com/:b:/g/personal/10714292_polimi_it/Eaf3Vv8iqxVGla55TdtWWdUB9LjYTxywGZWddpXlhs9amg?e=LQwZSc)
+- [**Clicca qui per scaricare il Capitolo 1: Cinematica**](https://polimi365-my.sharepoint.com/:b:/g/personal/10714292_polimi_it/EfjqTDwH8a5FqRWdR6LRuOkBl8F3uygplzKMM1vP0jEHJg?e=kZff5U)
+
+### Commento sugli esercizi
+Pubblicherò i successivi capitoli a scadenza circa settimanale, poiché sono ancora in lavoro e sto chiudendo grafici, esercizi e modifiche finali. Anche se sono decisamente rifiniti e ormai completi, i capitoli singoli che pubblicherò sono da considerarsi come bozza finale: chiunque è quindi lieto di segnalare qualsiasi errore o ambiguità contattandomi, e ogni contributo (sensato) sarà riconosciuto.
+
+La versione 1.0 sarà quella che comprenderà tutti i capitoli insieme in un unico documento. Vi ringrazio per la pazienza. 
 
 ## Contatti
 In particolare per gli studenti del PoliMi, sentitevi liberi di contattarmi sul mio indrizzo istituzionale: il mio nome in rubrica di ateneo è `giacomo1.fortunato`, con la solita convenzione per gli studenti. (Non scrivo la mail per intero per motivi di sicurezza!)
 
 ---
-Ultimo aggiornamento: `giugno 2022`
+Ultimo aggiornamento: `2 ottobre 2022`
